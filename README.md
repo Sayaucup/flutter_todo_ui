@@ -1,3 +1,3 @@
 # ScreenShot App
 
-![img.png](img/1.jpg)
+![img.png](img/untitled.gif)
