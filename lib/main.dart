@@ -60,6 +60,7 @@ class MyHomePage extends StatelessWidget {
           ),
           DraggableScrollableSheet(
               maxChildSize: 0.85,
+              initialChildSize: 0.3,
               builder:
                   (BuildContext context, ScrollController scrollController) {
                 return Stack(
@@ -107,7 +108,7 @@ class MyHomePage extends StatelessWidget {
                         ),
                         backgroundColor: Colors.white,
                       ),
-                      top: -10,
+                      top: -20,
                       right: 30,
                     )
                   ],
